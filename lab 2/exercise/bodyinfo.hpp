@@ -9,4 +9,10 @@ using namespace std;
 * ...
 */
 
+struct BodyInfo
+{
+    float height;
+    float weight;
+};
+
 #endif
